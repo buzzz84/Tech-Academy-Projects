@@ -1,0 +1,13 @@
+C:\Users\Melissa\Documents\GitHub\Tech-Academy-Projects\VisualStudioTestHTML\VisualStudioTestHTML\bin\Debug\netcoreapp2.1\VisualStudioTestHTML.deps.json
+C:\Users\Melissa\Documents\GitHub\Tech-Academy-Projects\VisualStudioTestHTML\VisualStudioTestHTML\bin\Debug\netcoreapp2.1\VisualStudioTestHTML.runtimeconfig.json
+C:\Users\Melissa\Documents\GitHub\Tech-Academy-Projects\VisualStudioTestHTML\VisualStudioTestHTML\bin\Debug\netcoreapp2.1\VisualStudioTestHTML.runtimeconfig.dev.json
+C:\Users\Melissa\Documents\GitHub\Tech-Academy-Projects\VisualStudioTestHTML\VisualStudioTestHTML\bin\Debug\netcoreapp2.1\VisualStudioTestHTML.dll
+C:\Users\Melissa\Documents\GitHub\Tech-Academy-Projects\VisualStudioTestHTML\VisualStudioTestHTML\bin\Debug\netcoreapp2.1\VisualStudioTestHTML.pdb
+C:\Users\Melissa\Documents\GitHub\Tech-Academy-Projects\VisualStudioTestHTML\VisualStudioTestHTML\obj\Debug\netcoreapp2.1\VisualStudioTestHTML.csproj.CoreCompileInputs.cache
+C:\Users\Melissa\Documents\GitHub\Tech-Academy-Projects\VisualStudioTestHTML\VisualStudioTestHTML\obj\Debug\netcoreapp2.1\VisualStudioTestHTML.RazorAssemblyInfo.cache
+C:\Users\Melissa\Documents\GitHub\Tech-Academy-Projects\VisualStudioTestHTML\VisualStudioTestHTML\obj\Debug\netcoreapp2.1\VisualStudioTestHTML.RazorAssemblyInfo.cs
+C:\Users\Melissa\Documents\GitHub\Tech-Academy-Projects\VisualStudioTestHTML\VisualStudioTestHTML\obj\Debug\netcoreapp2.1\VisualStudioTestHTML.AssemblyInfoInputs.cache
+C:\Users\Melissa\Documents\GitHub\Tech-Academy-Projects\VisualStudioTestHTML\VisualStudioTestHTML\obj\Debug\netcoreapp2.1\VisualStudioTestHTML.AssemblyInfo.cs
+C:\Users\Melissa\Documents\GitHub\Tech-Academy-Projects\VisualStudioTestHTML\VisualStudioTestHTML\obj\Debug\netcoreapp2.1\VisualStudioTestHTML.RazorTargetAssemblyInfo.cache
+C:\Users\Melissa\Documents\GitHub\Tech-Academy-Projects\VisualStudioTestHTML\VisualStudioTestHTML\obj\Debug\netcoreapp2.1\VisualStudioTestHTML.dll
+C:\Users\Melissa\Documents\GitHub\Tech-Academy-Projects\VisualStudioTestHTML\VisualStudioTestHTML\obj\Debug\netcoreapp2.1\VisualStudioTestHTML.pdb
